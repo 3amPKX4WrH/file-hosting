@@ -5,114 +5,138 @@
   "data": {
     "2R": {
       "name": "2R出浴照",
-      "image": "https://na.cx/i/L5vBF3d.png",
-      "variants": [
+      "type": "image",
+      "text": "https://na.cx/i/L5vBF3d.png",
+      "items": [
         {
           "name": "真出浴",
-          "image": "https://na.cx/i/2k4yHUS.png"
+          "type": "image",
+          "text": "https://na.cx/i/2k4yHUS.png"
         },
         {
           "name": "擘脾",
-          "image": "https://na.cx/i/jOdfWek.jpg"
+          "type": "image",
+          "text": "https://na.cx/i/jOdfWek.jpg"
         }
       ]
     },
     "李彩華": {
       "name": "李彩華著白色小背心",
-      "image": "https://na.cx/i/JnbdQYg.png"
+      "type": "image",
+      "text": "https://na.cx/i/JnbdQYg.png"
     },
     "俾我抖下": {
       "name": "你班仆街俾我抖下得唔得呀",
-      "image": "https://na.cx/i/16hc6x4.png",
-      "variants": [
+      "type": "image",
+      "text": "https://na.cx/i/16hc6x4.png",
+      "items": [
         {
           "name": "劉江",
-          "image": "https://na.cx/i/g7JDhJW.png"
+          "type": "image",
+          "text": "https://na.cx/i/g7JDhJW.png"
         },
         {
           "name": "人類總要",
-          "image": "https://static.wikia.nocookie.net/evchk/images/9/9e/T60C.gif"
+          "type": "image",
+          "text": "https://static.wikia.nocookie.net/evchk/images/9/9e/T60C.gif"
         },
         {
           "name": "人類總要2",
-          "image": "https://static.wikia.nocookie.net/evchk/images/3/3b/YJm0-1-.gif"
+          "type": "image",
+          "text": "https://static.wikia.nocookie.net/evchk/images/3/3b/YJm0-1-.gif"
         },
         {
           "name": "朗誦技巧",
-          "image": "https://na.cx/i/XpoDhKe.png"
+          "type": "image",
+          "text": "https://na.cx/i/XpoDhKe.png"
         }
       ]
     },
     "屌你唔好再細啲": {
       "name": "梁國雄議員",
-      "image": "https://na.cx/i/5rDPpqq.png",
-      "variants": [
+      "type": "image",
+      "text": "https://na.cx/i/5rDPpqq.png",
+      "items": [
         {
           "name": "考眼力",
-          "image": "https://na.cx/i/DSDotST.png"
+          "type": "image",
+          "text": "https://na.cx/i/DSDotST.png"
         }
       ]
     },
     "講呢啲": {
       "name": "屌！講呢啲",
-      "image": "https://na.cx/i/Vy3f4rS.png",
-      "variants": [
+      "type": "image",
+      "text": "https://na.cx/i/Vy3f4rS.png",
+      "items": [
         {
           "name": "周星馳",
-          "image": "https://na.cx/i/6BtDhNy.png"
+          "type": "image",
+          "text": "https://na.cx/i/6BtDhNy.png"
         },
         {
           "name": "大雄",
-          "image": "https://na.cx/i/pJB1Z1g.png"
+          "type": "image",
+          "text": "https://na.cx/i/pJB1Z1g.png"
         }
       ]
     },
     "我最期待的畫面": {
       "name": "我最期待的畫面出現了",
-      "image": "https://na.cx/i/1ecc6GT.png",
-      "variants": [
+      "type": "image",
+      "text": "https://na.cx/i/1ecc6GT.png",
+      "items": [
         {
           "name": "馬國明",
-          "image": "https://na.cx/i/7SZGfAp.png"
+          "type": "image",
+          "text": "https://na.cx/i/7SZGfAp.png"
         }
       ]
     },
     "黑人問號": {
       "name": "黑人問號",
-      "image": "https://na.cx/i/Q9MNa9Y.png"
+      "type": "image",
+      "text": "https://na.cx/i/Q9MNa9Y.png"
     },
     "黎先生": {
       "name": "我嘅訴求就係返工",
-      "image": "https://na.cx/i/0vtLHgX.png",
-      "variants": [
+      "type": "image",
+      "text": "https://na.cx/i/0vtLHgX.png",
+      "items": [
         {
           "name": "GIF",
-          "image": "https://static.wikia.nocookie.net/evchk/images/6/67/我嘅訴求就係想返工GIF.gif"
+          "type": "image",
+          "text": "https://static.wikia.nocookie.net/evchk/images/6/67/我嘅訴求就係想返工GIF.gif"
         },
         {
           "name": "周先生",
-          "image": "https://na.cx/i/VdruCWL.png"
+          "type": "image",
+          "text": "https://na.cx/i/VdruCWL.png"
         }
       ]
     },
     "信政府唔怕": {
       "name": "信政府唔怕",
-      "image": "https://na.cx/i/fDBpXSO.jpg"
+      "type": "image",
+      "text": "https://na.cx/i/fDBpXSO.jpg"
     },
     "姐姐": {
       "name": "葉劉淑儀",
-      "image": "https://na.cx/i/GSOzW1v.jpg",
-	  "variants": [
-		{
-			"name": "AV",
-			"image": "https://na.cx/i/e6jGhW7.jpg",
-			"adult": true
-		}
-	  ]
+      "type": "image",
+      "text": "https://na.cx/i/GSOzW1v.jpg",
+      "items": [
+        {
+          "name": "AV",
+          "type": "image",
+          "text": "https://na.cx/i/e6jGhW7.jpg",
+          "adult": true
+        }
+      ]
     },
-	"老雞": {
-		"name": "老雞沒有人要",
-		"image": "https://na.cx/i/O38cLZ9.png"
-	}
+    "老雞": {
+      "name": "老雞沒有人要",
+      "type": "image",
+      "text": "https://na.cx/i/O38cLZ9.png"
+    }
   }
 }

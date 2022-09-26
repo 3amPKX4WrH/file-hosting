@@ -1,11 +1,12 @@
 {
-    "name": "(Sample) Link",
-    "version": "1.0",
-    "homepage": "https://3amPKX4WrH.github.io/file-hosting",
-    "data": {
-      "youtube": {
-        "name": "Never Gonna Give You Up",
-        "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
-      }
+  "name": "(Sample) Link",
+  "version": "1.0",
+  "homepage": "https://3amPKX4WrH.github.io/file-hosting",
+  "data": {
+    "youtube": {
+      "name": "Never Gonna Give You Up",
+      "type": "url",
+      "text": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
     }
   }
+}

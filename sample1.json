@@ -5,110 +5,147 @@
   "data": {
     "巴打好幽默": {
       "name": "巴打真係好幽默",
-      "text": "巴打 我留意左你好耐\n你真係好幽默\n我自問都算個ok幽默既人 但係你幽默感比我真係高十幾二十倍\n錯 應該係100倍先岩\n估唔到我係呢個post竟然見識到你既威力\n我真係笑到爆左肚 依家一路打字一路撿返d腸呀內臟呀腎呀\n塞返落個肚到\n你有冇諗過未來幾個月去紅館開棟篤笑?",
-      "variants": [
+      "type": "text",
+      "text": "巴打 我留意左你好耐\\n你真係好幽默\\n我自問都算個ok幽默既人 但係你幽默感比我真係高十幾二十倍\\n錯 應該係100倍先岩\\n估唔到我係呢個post竟然見識到你既威力\\n我真係笑到爆左肚 依家一路打字一路撿返d腸呀內臟呀腎呀\\n塞返落個肚到\\n你有冇諗過未來幾個月去紅館開棟篤笑?",
+      "items": [
         {
           "name": "正字",
-          "text": "巴打，我留意咗你好耐，你真係好幽默。\n我自問都算個ok幽默嘅人，但係你幽默感比我真係高十幾二十倍…\n錯，應該係100倍先啱\n估唔到我喺呢個post竟然見識到你嘅威力\n我真係笑到爆咗肚，依家一路打字一路執返啲腸呀內臟呀腎呀，塞返落個肚度。\n你有冇諗過未來幾個月去紅館開棟篤笑？"
+          "type": "text",
+          "text": "巴打，我留意咗你好耐，你真係好幽默。\\n我自問都算個ok幽默嘅人，但係你幽默感比我真係高十幾二十倍…\\n錯，應該係100倍先啱\\n估唔到我喺呢個post竟然見識到你嘅威力\\n我真係笑到爆咗肚，依家一路打字一路執返啲腸呀內臟呀腎呀，塞返落個肚度。\\n你有冇諗過未來幾個月去紅館開棟篤笑？"
         },
         {
           "name": "書面語",
-          "text": "兄弟 我留意你很久了\n你真的很幽默\n我自問也算是一個幽默的人 但你的幽默感在跟我比較下真的高出十至二十倍\n錯 應該是100倍\n想不到在此帖竟能見識到你的想像力\n我真的笑到腸穿肚爛 現在邊打字 邊在撿回我的腸呀、內臟呀、腎呀\n塞回肚子裡\n你有考慮過在未來幾個月到紅館開演棟篤笑嗎？"
+          "type": "text",
+          "text": "兄弟 我留意你很久了\\n你真的很幽默\\n我自問也算是一個幽默的人 但你的幽默感在跟我比較下真的高出十至二十倍\\n錯 應該是100倍\\n想不到在此帖竟能見識到你的想像力\\n我真的笑到腸穿肚爛 現在邊打字 邊在撿回我的腸呀、內臟呀、腎呀\\n塞回肚子裡\\n你有考慮過在未來幾個月到紅館開演棟篤笑嗎？"
         },
         {
           "name": "英文",
-          "text": "BRO i had my eye on you for quite a long time.\nyou are REALLY hilarious.\ni do consider myself as a funny gal but you are just TEN times TWENTY times better than me.\nNO it should be HUNDRED times.\ni NEVER imagine i could witness you true powerful power in this post\nROFL right now i am typing and meantime picking up my intestines, internal organs, kidneys, which just left on the floor while i was rolling\njust put them back inside my stomach thru my tiny little asshole.\nHave you ever considered to perform a stand-up comedy in HUNG HOM Stadium?"
+          "type": "text",
+          "text": "BRO i had my eye on you for quite a long time.\\nyou are REALLY hilarious.\\ni do consider myself as a funny gal but you are just TEN times TWENTY times better than me.\\nNO it should be HUNDRED times.\\ni NEVER imagine i could witness you true powerful power in this post\\nROFL right now i am typing and meantime picking up my intestines, internal organs, kidneys, which just left on the floor while i was rolling\\njust put them back inside my stomach thru my tiny little asshole.\\nHave you ever considered to perform a stand-up comedy in HUNG HOM Stadium?"
         },
         {
           "name": "日文",
-          "text": "兄、あなたをずっと注目してたんだ\nあなたは本当にユーモラスな人だ\n私は自分がユーモラスな人と思っていたけど、あなたは私より十倍や二十倍ぐらいユーモラスだ\nいや！百倍に違いない\nもさかこのポストであなたの実力が見えるとは全然思わなかった\n私は本当にお腹が破れるほど爆笑してた。\nたった今腸や内臓や腎臓を拾って、お腹に戻してるところだ\nこれからの数ヶ月香港コロシアムで漫才を演ずるつもりはあるかい？"
+          "type": "text",
+          "text": "兄、あなたをずっと注目してたんだ\\nあなたは本当にユーモラスな人だ\\n私は自分がユーモラスな人と思っていたけど、あなたは私より十倍や二十倍ぐらいユーモラスだ\\nいや！百倍に違いない\\nもさかこのポストであなたの実力が見えるとは全然思わなかった\\n私は本当にお腹が破れるほど爆笑してた。\\nたった今腸や内臓や腎臓を拾って、お腹に戻してるところだ\\nこれからの数ヶ月香港コロシアムで漫才を演ずるつもりはあるかい？"
         },
         {
           "name": "文言文",
-          "text": "君，吾觀汝甚久，\n汝實諧趣。\n吾好笑語，然汝趣廿倍於吾。\n嗟乎！實百倍。\n觀畢全文，深感君才矣。\n吾腹笑裂，今亦鍵亦拾臟腑歸腹。\n敢問君，安獨趣予紅館乎？"
+          "type": "text",
+          "text": "君，吾觀汝甚久，\\n汝實諧趣。\\n吾好笑語，然汝趣廿倍於吾。\\n嗟乎！實百倍。\\n觀畢全文，深感君才矣。\\n吾腹笑裂，今亦鍵亦拾臟腑歸腹。\\n敢問君，安獨趣予紅館乎？"
         }
       ]
     },
     "不孝子": {
       "name": "不孝有三，無圖為大",
-      "text": "唔係話唔信你\n不過你開左個post，我滿心期望入到黎\n一打開，屌，原來圖都冇幅\n如果你有幅圖既，就算假既都好過冇\n起碼我都知你條友仔係度吹水唔抹嘴，唔洗我郁手都有其他巴打問候伯母\n點知家陣冇野證明到你講既野係岩\n又冇野證明到你講既野係錯\n就好似係街果D gay篤桃咁，同你講上帝存在\n問佢點解存在，又話係因為你證明唔到佢唔存在\n大佬呀，我已經好煩，唔好再同我講埋佛計（偈）\n一句到尾，你而家都係冇圖\n冇圖既你開個post做乜？\n人地入到盞令伯友難做，點解要咁不孝？\n不孝有三，無圖為大，而家我唔理你，話知你猴子偷圖，點都死幅圖出黎",
-      "variants": [
+      "type": "text",
+      "text": "唔係話唔信你\\n不過你開左個post，我滿心期望入到黎\\n一打開，屌，原來圖都冇幅\\n如果你有幅圖既，就算假既都好過冇\\n起碼我都知你條友仔係度吹水唔抹嘴，唔洗我郁手都有其他巴打問候伯母\\n點知家陣冇野證明到你講既野係岩\\n又冇野證明到你講既野係錯\\n就好似係街果D gay篤桃咁，同你講上帝存在\\n問佢點解存在，又話係因為你證明唔到佢唔存在\\n大佬呀，我已經好煩，唔好再同我講埋佛計（偈）\\n一句到尾，你而家都係冇圖\\n冇圖既你開個post做乜？\\n人地入到盞令伯友難做，點解要咁不孝？\\n不孝有三，無圖為大，而家我唔理你，話知你猴子偷圖，點都死幅圖出黎",
+      "items": [
         {
           "name": "英文",
+          "type": "text",
           "text": "No photo no talk"
         },
         {
           "name": "圖呢",
+          "type": "text",
           "text": "圖呢屌你"
         },
         {
           "name": "傾偈無圖",
+          "type": "text",
           "text": "傾偈無圖無偈傾"
         },
         {
           "name": "Hello無圖",
+          "type": "text",
           "text": "Hello 無圖 :o)"
         },
         {
           "name": "把聲勁溫柔",
-          "image": "https://na.cx/i/SW1YhrN.gif"
+          "type": "image",
+          "text": "https://na.cx/i/SW1YhrN.gif"
         }
       ]
     },
     "少年太年輕": {
       "name": "少年，你太年輕了",
+      "type": "text",
       "text": "少年，你太年輕了。你以為這個論壇上真的有那麼多人回覆你的帖子？其實都是我一個人回的，不然我再換個ID發同樣的話給你看。"
     },
     "冇人講": {
       "name": "XX冇人講",
-      "text": "冇人講咪你講囉我屌你老母臭閪xx(\n你講唔撚得架？好撚委屈你架？其他人開post講撚咗先我係咪又可以屌你唔撚講先？:o)\n係咪覺得冇人講，自己就好撚有優越感，開post就係都要加多一兩句屌人先得？:o)\n乜撚嘢話題都實有第一個人講架啦，係咪個撚個開post都要屌人「ＸＸ都冇人講」？:o)\n好聲好氣唔撚得嘅，係咪以為個撚個都廿四小時mon撚住乜柒都知？:o)\n呢啲戇鳩仔，完全喺到消磨所有人嘅耐性，助長負面情緒。:o)\n屌你老母我真係唔撚知有件咁嘅事啊嘛，碌碌下post無撚啦啦畀你屌，唔撚知唔撚得架？xx(\n冇人知冇人提咁咪你提話人知囉我屌你老母，你知又唔撚講其他人唔知又可以點撚樣講啊？xx(\n接收資訊嗰個一定要畀發放資訊嗰個屌架？:o)\n係咪你細個你老竇教你寫字嗰陣一路教一路屌你老母先教到你呢啲撚樣出嚟？xx(\n屌你老母臭閪谷鳩氣:o)"
+      "type": "text",
+      "text": "冇人講咪你講囉我屌你老母臭閪xx(\\n你講唔撚得架？好撚委屈你架？其他人開post講撚咗先我係咪又可以屌你唔撚講先？:o)\\n係咪覺得冇人講，自己就好撚有優越感，開post就係都要加多一兩句屌人先得？:o)\\n乜撚嘢話題都實有第一個人講架啦，係咪個撚個開post都要屌人「ＸＸ都冇人講」？:o)\\n好聲好氣唔撚得嘅，係咪以為個撚個都廿四小時mon撚住乜柒都知？:o)\\n呢啲戇鳩仔，完全喺到消磨所有人嘅耐性，助長負面情緒。:o)\\n屌你老母我真係唔撚知有件咁嘅事啊嘛，碌碌下post無撚啦啦畀你屌，唔撚知唔撚得架？xx(\\n冇人知冇人提咁咪你提話人知囉我屌你老母，你知又唔撚講其他人唔知又可以點撚樣講啊？xx(\\n接收資訊嗰個一定要畀發放資訊嗰個屌架？:o)\\n係咪你細個你老竇教你寫字嗰陣一路教一路屌你老母先教到你呢啲撚樣出嚟？xx(\\n屌你老母臭閪谷鳩氣:o)"
     },
     "李斯": {
       "name": "陳國邦(李斯)",
-      "text": "答案係!! 陳國邦 (李斯)\n因為去沙灘唔昅女啫係silly 癡線 冇可能會發生\nSilly發音就係 see Li 斯李\n而我地華人社會 習慣將last name 擺前面\n所以!!!!!!! 答案就係李斯喇\n而做過李斯嘅TVB藝員就係得陳國邦\n所以!!!!!!!!!!!!!答案係!!!!!!!!!陳國邦",
-      "variants": [
+      "type": "text",
+      "text": "答案係!! 陳國邦 (李斯)\\n因為去沙灘唔昅女啫係silly 癡線 冇可能會發生\\nSilly發音就係 see Li 斯李\\n而我地華人社會 習慣將last name 擺前面\\n所以!!!!!!! 答案就係李斯喇\\n而做過李斯嘅TVB藝員就係得陳國邦\\n所以!!!!!!!!!!!!!答案係!!!!!!!!!陳國邦",
+      "items": [
         {
           "name": "有圖",
-          "text": "答案係!! 陳國邦 (李斯) #touch#dog\n[img]https://na.cx/i/JJebjw3.jpg[/img]\n[img]https://na.cx/i/N2Laz5t.jpg[/img] \n因為去沙灘唔昅女啫係silly 癡線 冇可能會發生 #wet#dog\nSilly發音就係 see Li 斯李#haha#dog\n而我地華人社會 習慣將last name 擺前面#touch#dog \n所以!!!!!!! 答案就係李斯喇#good#\n而做過李斯嘅TVB藝員就係得陳國邦#yup#\n所以!!!!!!!!!!!!!答案係!!!!!!!!!陳國邦 #hehe#dog\n[img]https://na.cx/i/VB5YJY3.jpg[/img]\n輕鬆 謝謝大家"
+          "type": "text",
+          "text": "答案係!! 陳國邦 (李斯) #touch#dog\\n[img]https://na.cx/i/JJebjw3.jpg[/img]\\n[img]https://na.cx/i/N2Laz5t.jpg[/img] \\n因為去沙灘唔昅女啫係silly 癡線 冇可能會發生 #wet#dog\\nSilly發音就係 see Li 斯李#haha#dog\\n而我地華人社會 習慣將last name 擺前面#touch#dog \\n所以!!!!!!! 答案就係李斯喇#good#\\n而做過李斯嘅TVB藝員就係得陳國邦#yup#\\n所以!!!!!!!!!!!!!答案係!!!!!!!!!陳國邦 #hehe#dog\\n[img]https://na.cx/i/VB5YJY3.jpg[/img]\\n輕鬆 謝謝大家"
         }
       ]
     },
     "嚴選十大": {
       "name": "嚴選十大",
-      "text": "你等俾人report post啦仆街\n潮州粉果top 1 你究竟發生乜撚野事\n我情願你繼續OT\n份工返唔完就最好\n咁就唔洗俾大家知你個top 1係潮州粉果\n你2-10亂鳩黎我都算撚柒數\n我當伯母陀住你嗰陣撞親個肚\n但係潮州粉果喎\n潮州粉果喎\n你有無諗清諗楚先開post？\n你咪撚同我講你係開完post先黎諗內容 見步行步下話？\n同你講都係嘥鳩氣\n妖"
+      "type": "text",
+      "text": "你等俾人report post啦仆街\\n潮州粉果top 1 你究竟發生乜撚野事\\n我情願你繼續OT\\n份工返唔完就最好\\n咁就唔洗俾大家知你個top 1係潮州粉果\\n你2-10亂鳩黎我都算撚柒數\\n我當伯母陀住你嗰陣撞親個肚\\n但係潮州粉果喎\\n潮州粉果喎\\n你有無諗清諗楚先開post？\\n你咪撚同我講你係開完post先黎諗內容 見步行步下話？\\n同你講都係嘥鳩氣\\n妖"
     },
     "多謝外公": {
       "name": "多謝外公",
-      "text": "咁多位早晨，我今日嚟，係想同你哋講個故事嘅：\n\n喺幾年前\n我同一個寡婦結咗婚\n佢有一個已成年嘅女\n後來嫁咗比我老豆\n\n咁我繼女就做咗我後媽\n而我老豆就做咗我女婿\n\n兩年後我老婆同我生咗一個仔\n佢喺我後媽嘅同母異父嘅細佬\n我個仔叫我「老豆」\n我就叫我個仔「舅父」\n\n我繼女又為我老豆生咗一個仔\n佢喺我細佬\n但佢又要叫我外公\n\n我喺我老婆個老公\n但喺我老婆喺我後媽個阿媽喎\n所以我喺自己嘅外公\n\n到咗新年\n嚟料喇\n\n我就同我後媽同我老豆\n即係同我繼女同女婿交換利是\n\n我封廿蚊比我個仔\n佢話：「多謝老豆！」\n我又答返佢：「唔洗，舅父！喺呢，咁我嗰封呢？」\n「你都痴線，我結咗婚喇咩？」唉，我自己都亂咗...\n\n食團年飯嗰陣\n我喺抬面上面放咗一封一千蚊利是\n再拎返封利是上手\n叫咗聲：「多謝外公！」\n\n好彩唔喺街姐\n唔係真係比人捉去青山瞓一排\n而家諗返自己真喺痴痴地線\n自己比錢自己洗\n咪即係去自己鋪頭買野..."
+      "type": "text",
+      "text": "咁多位早晨，我今日嚟，係想同你哋講個故事嘅：\\n\\n喺幾年前\\n我同一個寡婦結咗婚\\n佢有一個已成年嘅女\\n後來嫁咗比我老豆\\n\\n咁我繼女就做咗我後媽\\n而我老豆就做咗我女婿\\n\\n兩年後我老婆同我生咗一個仔\\n佢喺我後媽嘅同母異父嘅細佬\\n我個仔叫我「老豆」\\n我就叫我個仔「舅父」\\n\\n我繼女又為我老豆生咗一個仔\\n佢喺我細佬\\n但佢又要叫我外公\\n\\n我喺我老婆個老公\\n但喺我老婆喺我後媽個阿媽喎\\n所以我喺自己嘅外公\\n\\n到咗新年\\n嚟料喇\\n\\n我就同我後媽同我老豆\\n即係同我繼女同女婿交換利是\\n\\n我封廿蚊比我個仔\\n佢話：「多謝老豆！」\\n我又答返佢：「唔洗，舅父！喺呢，咁我嗰封呢？」\\n「你都痴線，我結咗婚喇咩？」唉，我自己都亂咗...\\n\\n食團年飯嗰陣\\n我喺抬面上面放咗一封一千蚊利是\\n再拎返封利是上手\\n叫咗聲：「多謝外公！」\\n\\n好彩唔喺街姐\\n唔係真係比人捉去青山瞓一排\\n而家諗返自己真喺痴痴地線\\n自己比錢自己洗\\n咪即係去自己鋪頭買野..."
     },
     "台灣係風化國": {
       "name": "台灣真係一個充滿住bitch同厹既地方",
+      "type": "text",
       "text": "所以咪話，台灣真係一個充滿住bitch同厹既地方，呢個地方既人成個腦除左諗點樣恥笑香港叫支那之外，就係諗住做愛，sex，做愛，外遇，偷情，同人妻人夫做愛，亂倫， 強姦，迷姦，撿屍，一有時間就諗下可以點樣屌到自己個呀嫂，堂/表姐妹，女朋友/老婆嘅姊妹，或者朋友個女，朋友個孫，弱智信徒嘅弱智女、 弱智孫女，老闆屌女秘書，醫生屌女病人，偷嘢女客人主動叫處男店員屌佢同幫佢口交，老師就想同自己個學生做下愛咁，學生又諗下點屌個大波miss，再唔係就係最鍾意做愛果時拍下片，方便以後分手再要脅下個前度做多幾次分手愛，台妹最馨同條仔吵兩句嘴就馬上搵前度傾心事，傾傾下就又做愛，個前度問佢可唔可以內射，台妹搖頭說不，但最後還是被射滿滿，所以話，呢個地方真係十分淫亂。",
-      "variants": [
+      "items": [
         {
           "name": "書面語",
+          "type": "text",
           "text": "所以說，台灣真是一個充滿婊子跟公狗的地方，這個地方的人整個腦子除了在想如何恥笑香港叫支那之外，就係想著做愛，sex，做愛，外遇，偷情，跟人妻人夫做愛，亂倫， 強姦，迷姦，撿屍，一有時間就想著可以怎樣可以幹自己的嫂子，堂/表姐妹，女朋友/老婆的姊妹，或是朋友的女兒，朋友的孫女，弱智信徒的弱智女兒、 弱智孫女，老闆幹女秘書，醫生幹女病人，偷東西的女客人主動叫處男店員幹她和幫他口交，老師就想跟自己的學生做一下愛這樣，學生又在想如何幹大奶老師，再不是就是最喜歡在做愛那時拍下影片，方便以後分手的時候，再要脅前度幹多幾次分手炮，台妹最流行跟男朋友吵兩句嘴就馬上找前度談心事，談不久後又做愛，前度問她可不可以內射，台妹搖頭說不，但最後還是被射滿滿，所以說，這個地方真是十分淫亂。"
         },
         {
           "name": "文言文",
+          "type": "text",
           "text": "或曰台灣，盪女痴男，滿野皆然。其人弗譏香港為支那，即淫婦孺若花柳。姦人妻，惑人夫，刁風月，弄牆隙，交合行淫，行淫交合，迷姦強暴者，不絕於國也。堂姊表妹、兄嫂內娣、朋女友孫、皆可慾淫。愚女信徒，秘書病人，及其鄉里鄰舍，長幼無一倖免。娼盜口穴逢迎，奪僕童貞操。浪師股乳招搖，誘學子心性。或交合時陰錄春宮，分別時皇皇然脅之，又得幾回歡愉。女甫口角，輒奔舊愛，哭啼哭啼，又變嘿咻嘿咻。男欲內發，女言不可，騷首之間，閉穴全受。縱情荒淫，誠此地之謂也。"
         },
         {
           "name": "英文",
-          "text": "That’s why someone said, Taiwan is truly a place full of bitches and male dogs. In addition to the idea of how sneering at Hong Kong by calling it Chi-na, the entire brains the people got in this place have nothing left inside but the thoughts of mating, sex, making love, affair, betrayal, having sex with wifes and husbands of the others, incest, rape, rohypnol and picking up corpses. \nOnce getting leisure, they would be figuring out how to fuck their elder brother’s wife/cousin, bestie of girlfriend/wife, or daughter of friend, granddaughter of friend, mentally handicapped daughter of mentally handicapped believer, mentally handicapped granddaughter. There would even be a female secretary getting fucked by the boss, the doctor fucking a female patient, the female buyers who’s stealing things actively asking for sex from the male staff and giving him a blowjob. \nThe teachers would have sex with their students, while the students are planning to fuck the miss with big boobs. \nOr their favorite thing to do is filming video when having sex, for easily threatening the ex to have break-up sex several more times after the relationship is done. \nTaiwan girl gets used to cry on shoulder of her ex after a little fight with her boyfriend, and then get fucked when grumbling. \nThe ex asks her if he could cum inside, the taiwan girl shakes head and says no, but still gets full of cum inside eventually. \nTherefore, it is a very obsense place."
+          "type": "text",
+          "text": "That’s why someone said, Taiwan is truly a place full of bitches and male dogs. In addition to the idea of how sneering at Hong Kong by calling it Chi-na, the entire brains the people got in this place have nothing left inside but the thoughts of mating, sex, making love, affair, betrayal, having sex with wifes and husbands of the others, incest, rape, rohypnol and picking up corpses. \\nOnce getting leisure, they would be figuring out how to fuck their elder brother’s wife/cousin, bestie of girlfriend/wife, or daughter of friend, granddaughter of friend, mentally handicapped daughter of mentally handicapped believer, mentally handicapped granddaughter. There would even be a female secretary getting fucked by the boss, the doctor fucking a female patient, the female buyers who’s stealing things actively asking for sex from the male staff and giving him a blowjob. \\nThe teachers would have sex with their students, while the students are planning to fuck the miss with big boobs. \\nOr their favorite thing to do is filming video when having sex, for easily threatening the ex to have break-up sex several more times after the relationship is done. \\nTaiwan girl gets used to cry on shoulder of her ex after a little fight with her boyfriend, and then get fucked when grumbling. \\nThe ex asks her if he could cum inside, the taiwan girl shakes head and says no, but still gets full of cum inside eventually. \\nTherefore, it is a very obsense place."
         },
         {
           "name": "日文",
+          "type": "text",
           "text": "だから、それで、台湾の部門は本当に両方の場所を完全に踏みにじって生きる雌犬です、それは人間の脳を香港の外のシナと呼ばれる一種の嘲笑のチュズオの引用ポイントに置きます、部門はライブのセックス、セックス、セックス、浮気、不正行為、妻や夫とのセックス、近親相姦、レイプ、レイプ、死体のコレクション、時間があればすぐに、義理の姉妹、いとこ/いとこ、ガールフレンド/妻の姉妹、または友人、女の子、または友人を見つけることができます精神障害者の娘であり孫娘であるサン、上司の女性秘書、医師の女性患者、そして盗まれた女性のクライアントは、処女の店員にギャングと口頭でセックスするように頼みました。教師は彼女の学生と、そして再び学生とセックスしたいと思っていました。大きなミスを考えてみてください。一番好きな果物とセックスしたときに写真を撮りたい場合は、将来別れるのに便利で、次回までにたくさんの別れをしなければなりません。すぐに前に出て、また恋をしたので、内向きに撃てないかと聞いてみたら、台湾の女の子が首を横に振ってノーと言ったのですが、結局はまだまだショットがいっぱいだったので、本当にフォーニックです。"
+        }
+      ]
+    },
+    "返工闖過最大咩禍": {
+      "name": "油輪入錯油",
+      "type": "text",
+      "text": "公司某神人前幾年試過落錯左潤滑油比架運油船\\n架運油船之後爆左，油污KO左某國一條海岸線，公司被人罰左差不多成億港幣。\\n位神人成team十幾人，連佢個日本仔老細，同個日本仔老細的鬼佬老細，被人一次過炒曬。",
+      "items": [
+        {
+          "name": "汽油",
+          "type": "text",
+          "text": "巴打喺一間物流公司做，負責幫貨船入油。果日有架船要出航遠行，咁巴打就一如往常咁打滿佢，送佢一程。過左一段時間巴打就發現今次仆街嘞，原來架船係用柴油嘅，點知佢一時錯手入左汽油。其實入錯油都冇咩，架船又唔會因為咁爆炸死人嘅；最多都係死火，啲貨就遲幾日到。不過公司就要賠錢，而佢都有俾人炒嘅心理準備。我諗佢當時都仲心存一絲希望，希望架船聽聽話話，捱到去終站。\\n\\n不過架船真係喺太平洋島嶼擱淺左。巴打心諗出得嚟行，預左要還，已經準備定執包袱。果然好快就收到消息，不過炒嘅唔單止係佢，而係成個部門十幾人，連上司嘅上司都俾人炒埋。點解呢？ 原來係架船上面係載住一啲化學物品，擱淺之後洩漏到成個海都係，公司要負責處理污染物，一賠賠幾億。而事件裡面最無辜嘅係附近一個水清沙幼嘅太平洋小島，因為生態災害，要即時封鎖隔離。\\n\\n就因為遠在香港嘅巴打一時錯手，將一個太平洋小島毀於一旦"
         }
       ]
     },
     "Old news": {
       "name": "Old news",
+      "type": "text",
       "text": "Old news is so exciting",
-      "variants": [
+      "items": [
         {
           "name": "唔識串",
+          "type": "text",
           "text": "Old news is so 唔識串"
         }
       ]

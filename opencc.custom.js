@@ -1,0 +1,1 @@
+OpenCCJSData.STCustomPhrases = "回复术 回復術|回复魔法 回復魔法|这周 這週|澈底 徹底|圧 壓|复数 複數";
